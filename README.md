@@ -6,6 +6,10 @@
 * Tutorial https://towardsdatascience.com/build-a-simple-todo-app-using-react-a492adc9c8a4
 * npx create-react-app react-todo, npm start
 
+# Deployment to github
+* https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+* npm run deploy
+
 # Problem & Fixing
 
 
