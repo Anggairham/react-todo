@@ -1,3 +1,14 @@
+# Racikan
+* React
+* React Bootstrap
+
+# Guidline
+* Tutorial https://towardsdatascience.com/build-a-simple-todo-app-using-react-a492adc9c8a4
+* npx create-react-app react-todo, npm start
+
+# Problem & Fixing
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
