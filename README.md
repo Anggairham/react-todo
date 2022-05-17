@@ -1,5 +1,5 @@
 # Racikan
-* React
+* React, React Hooks
 * React Bootstrap
 
 # Guidline
